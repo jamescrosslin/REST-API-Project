@@ -3,7 +3,7 @@
     {
       "id": 8721,
       "quote": "We must accept finite disappointment, but we must never lose infinite hope.",
-      "author": "Martin Luther King"
+      "author": "Martin Luther King, Jr."
     },
     {
       "id": 5779,
@@ -34,6 +34,11 @@
       "quote": "I don't want to eat one of the jello packs because I don't want to split up a family",
       "author": "Shara Crosslin",
       "id": 4069
+    },
+    {
+      "quote": "Is my server working?",
+      "author": "James Crosslin",
+      "id": 45
     }
   ]
 }

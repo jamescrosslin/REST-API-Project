@@ -8,7 +8,7 @@ class PostError extends DatabaseError {
       this[key] = value;
     }
   }
-  get statusCode() {
+  get statusCode() { 
     return 502;
   }
 }

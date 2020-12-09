@@ -8,7 +8,7 @@ class BadRequestError extends UserFacingError {
     //Here I can add any additional information I want included with the error
 
     for (const [key, value] of Object.entries(options)) {
-      this[key] = value;
+      this[key] = value; 
     }
   }
 

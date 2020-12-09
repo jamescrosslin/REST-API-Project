@@ -10,7 +10,7 @@ class DatabaseError extends ApplicationError {}
 
 class UserFacingError extends ApplicationError {}
 
-module.exports = {
+module.exports = { 
   ApplicationError,
   DatabaseError,
   UserFacingError
